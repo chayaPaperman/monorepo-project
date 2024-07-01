@@ -1,0 +1,6 @@
+[submodule "apps/front-end"]
+	path = apps/front-end
+	url = https://github.com/diversi-tech/smart-tax-front
+[submodule "apps/back-end"]
+	path = apps/back-end
+	url = https://github.com/diversi-tech/smart-tax-back
